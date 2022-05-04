@@ -12,7 +12,7 @@
     "languages": [],
     "url": "https://github.com/Ediwir/pf2e-alchemyABP",
   "manifest": "https://raw.githubusercontent.com/Ediwir/pf2e-alchemyABP/master/module.json",
-  "download": "https://github.com/Ediwir/pf2e-alchemyABP/archive/refs/heads/main.zip"
+  "download": "https://github.com/Ediwir/pf2e-alchemyABP/archive/refs/heads/main.zip",
     "packs": [{
         "label": "Alchemy ABP Effects",
         "name": "alchemy-abp-effects",
