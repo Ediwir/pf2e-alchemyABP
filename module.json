@@ -1,0 +1,49 @@
+{
+    "name": "pf2e-alchemyABP",
+    "title": "PF2e Alchemy for ABP",
+    "description": "Adds new versions of alchemical items reworked to function alongside the ABP variant",
+    "author": "Archvillain Ediwir",
+    "version": "1.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "languages": [],
+    "url": "https://github.com/Ediwir/pf2e-alchemyABP",
+  "manifest": "https://raw.githubusercontent.com/Ediwir/pf2e-alchemyABP/master/module.json",
+  "download": "https://github.com/Ediwir/pf2e-alchemyABP/archive/refs/heads/main.zip"
+    "packs": [{
+        "label": "Alchemy ABP Effects",
+        "name": "alchemy-abp-effects",
+        "path": "./packs/alchemy-abp-effects.db",
+        "system": "pf2e",
+        "package": "pf2e-alchemyABP",
+        "private": false,
+        "type": "Item"
+    },
+    {
+        "label": "Alchemy ABP Items",
+        "name": "alchemy-abp-items",
+        "path": "./packs/alchemy-abp-items.db",
+        "system": "pf2e",
+        "package": "pf2e-alchemyABP",
+        "private": false,
+        "type": "Item"
+    }],
+        "flags": {
+  "ppf2e-alchemyABP": {
+    "pf2e-homebrew": {
+      "equipmentTraits": {
+        "ABP": {
+          "label": "ABP",
+          "description": "<p>This item's bonuses are compatible with the official ABP variant.</p>"
+        }
+       }
+      }
+     }
+    },
+    "system": [
+        "pf2e"
+    ]
+}
