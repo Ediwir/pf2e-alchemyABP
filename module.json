@@ -2,7 +2,7 @@
     "name": "pf2e-alchemyABP",
     "title": "PF2e Alchemy for ABP",
     "description": "Adds new versions of alchemical items reworked to function alongside the ABP variant",
-    "author": "Archvillain Ediwir",
+    "author": "Ediwir",
     "version": "1.0.2",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
