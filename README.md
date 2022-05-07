@@ -14,3 +14,9 @@ The compendium does not, as of this version, include bombs, as their reimplement
 
 - Cazzie
 - Tikael
+
+## Current state:
+
+- item list is up to date (2022 May 7th, Book of the Dead)
+- some items missing art: Ectoplasmic Tracer, War Blood Mutagen.
+- the ABP trait is implemented but not searchable.
