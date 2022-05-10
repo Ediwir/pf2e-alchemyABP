@@ -3,7 +3,7 @@
     "title": "PF2e Alchemy for ABP",
     "description": "Adds new versions of alchemical items reworked to function alongside the ABP variant",
     "author": "Ediwir",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "scripts": [],
@@ -14,6 +14,14 @@
   "manifest": "https://raw.githubusercontent.com/Ediwir/pf2e-alchemyABP/master/module.json",
   "download": "https://github.com/Ediwir/pf2e-alchemyABP/archive/refs/heads/main.zip",
     "packs": [{
+        "label": "Alchemy ABP Bombs",
+        "name": "alchemy-abp-bombs",
+        "path": "./packs/alchemy-abp-bombs.db",
+        "system": "pf2e",
+        "package": "pf2e-alchemyABP",
+        "private": false,
+        "type": "Item"
+    },{
         "label": "Alchemy ABP Effects",
         "name": "alchemy-abp-effects",
         "path": "./packs/alchemy-abp-effects.db",
