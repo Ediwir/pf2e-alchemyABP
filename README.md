@@ -20,6 +20,6 @@ The compendium does not, as of this version, fix bombs attack bonuses, as the we
 ## Current state:
 
 - item list is up to date (2022 May 7th, Book of the Dead)
-- some items missing art: Ectoplasmic Tracer, War Blood Mutagen.
+- some items missing art: Ectoplasmic Tracer.
 - some bombs missing art: junk bomb, mud bomb, pernicious spore bomb, pressure bomb, tallow bomb, twigjack sack, water bomb.
 - the ABP trait is implemented and assigned, but not searchable.
