@@ -6,7 +6,7 @@ Alchemy for ABP adds a compendium of reworked alchemical items built to overlap 
 
 Another compendium, "alchemy ABP bombs", includes bombs made to circumvent ABP so that the only applied damage will be the bomb's original damage. ABP will still (despite various attempts) add a small amount of damage (from +0 to +3), but will no longer double the original damage. All bombs are included.
 
-The compendium does not, as of this version, fix bombs attack bonuses, as the weapon code lacks the flexibility required to distinguish between bonus types to hit. It also does not (and will not) include drugs.
+The compendium does not, as of this version, fix bombs attack bonuses. It also does not (and will not) include drugs.
 
 ## Authors
 
