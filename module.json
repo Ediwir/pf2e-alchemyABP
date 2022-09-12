@@ -3,7 +3,7 @@
     "title": "PF2e Alchemy for ABP",
     "description": "Adds new versions of alchemical items reworked to function alongside the ABP variant",
     "author": "Ediwir",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "scripts": [],
