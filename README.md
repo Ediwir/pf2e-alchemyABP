@@ -23,3 +23,4 @@ The compendium does not, as of this version, fix bombs attack bonuses. It also d
 - some items missing art: Ectoplasmic Tracer.
 - some bombs missing art: junk bomb, mud bomb, pernicious spore bomb, pressure bomb, tallow bomb, twigjack sack, water bomb.
 - the ABP trait is implemented and assigned, but not searchable.
+- a large update is planned after Treasure Vault releases, but will take a while as I am revisiting the entire compendium of items.
