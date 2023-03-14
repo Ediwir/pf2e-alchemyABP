@@ -45,7 +45,7 @@
       "equipmentTraits": {
         "ABP": {
           "label": "ABP",
-          "description": "<p>This item's bonuses are compatible with the official ABP variant.</p>"
+          "description": "<p>This item comes from an old module. Please use PF2e Automatic Rune Progression instead.</p>"
         }
        }
       }
