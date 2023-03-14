@@ -1,4 +1,7 @@
-# PF2e Alchemy for ABP
+# PF2e Alchemy for ABP - discontinued
+-------------------------------------
+The module is discontinued. Instead, I recommend PF2e ARP (Automatic Runic Progression) by reonZ.
+-------------------------------------
 
 In the current state, the ABP variant disables all item bonuses and adds stacking damage dice to all weapons. This removes any usability from almost all alchemical items and increases bomb damage by two to three times at most levels, with the first element being likely undesirable by players and the second likely unwelcome by GMs.
 
